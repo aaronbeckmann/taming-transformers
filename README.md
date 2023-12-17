@@ -1,6 +1,8 @@
-#[Collab Editor and Execution of VQGAN+CLIP](https://colab.research.google.com/drive/1OUXZHlHhcXCg-5JjmdUswYnxxWMruJNq?usp=sharing)
+# [Collab Editor and Execution of VQGAN+CLIP](https://colab.research.google.com/drive/1OUXZHlHhcXCg-5JjmdUswYnxxWMruJNq?usp=sharing)
 
+Original Texts below
 
+-- 
 # Taming Transformers for High-Resolution Image Synthesis edited to work the newest pytorch library.
 ##### CVPR 2021 (Oral)
 ![teaser](assets/mountain.jpeg)
